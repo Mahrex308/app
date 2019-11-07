@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 10vmin;
+}
+
+.App-header {
+  background-color: #011131;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: #021c50;
+  min-height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Team-Match {
+  color: white;
+  font-size: clac(10px + 2vmin);
+  display: flex;
+  text-align: center;
+}
+.Button-Start {
+  text-align: center;
+}

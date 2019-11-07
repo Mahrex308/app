@@ -1,0 +1,19 @@
+import React from 'react';
+import {
+    BrowserRouter as Router,
+    Router
+  } from 'react-router-dom';
+
+export default function ApplicationGood() {
+    return (
+        <Router>
+            <div>
+                <ul>
+                    <input to='/'>Comments</input>
+                </ul>
+            </div>
+        </Router>
+    )
+} 
+  
+    
